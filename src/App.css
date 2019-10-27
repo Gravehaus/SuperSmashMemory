@@ -1,0 +1,55 @@
+/*THIS IS GOING TO BE MY CUSTOM CSS*/
+
+*{
+ 
+  font-family: 'Staatliches';
+
+}
+
+.header, .scores, .title{
+  position: relative;
+  text-align: center;
+  background-color: rgba(196, 243, 255, 0.6);
+  width: 100%;
+  display:inline-block;
+  font-size: 30px;
+  color: goldenrod;
+  margin: 0;
+}
+
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  background-image: url("https://i.redd.it/53dgtjmhzo511.png");
+  background-image: no-repeat;
+}
+.card {
+  border: 3px, solid, black;
+  border-radius: 10px;
+  height: 150px;
+  margin: 1rem;
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+  width: 25%;
+  background-color: rgba(196, 243, 255, 0.6);
+
+}
+
+.card > .img-container > img {
+  width: 50%;
+  text-align: center;
+}
+
+
+.card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+}
+
+
+

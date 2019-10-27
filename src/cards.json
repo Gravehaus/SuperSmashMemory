@@ -1,0 +1,111 @@
+
+
+ [
+  {
+    "id": 0,
+    "name": "Pikachu",
+    "image": "http://smashbros-ultimate.com/images/char/pikachu.png",
+    "description": "Pikachu"
+    
+  },
+  {
+    "id": 1,
+    "name": "Samus Aran",
+    "image": "http://smashbros-ultimate.com/images/char/samus.png",
+    "description": "Samus Aran"
+    
+  },
+  {
+    "id": 2,
+    "name": "Link",
+    "image": "http://smashbros-ultimate.com/images/char/link.png",
+    "description": "Link"
+    
+  },
+  
+  {
+    "id": 4,
+    "name": "Donkey Kong",
+    "image": "http://smashbros-ultimate.com/images/char/donkey_kong.png",
+    "description": "Donkey Kong"
+    
+  },
+ 
+  {
+    "id": 6,
+    "name": "Joker",
+    "image": "http://smashbros-ultimate.com/images/char/joker.png",
+    "description": "Joker"
+    
+  },
+  {
+    "id": 7,
+    "name": "Zelda",
+    "image": "http://smashbros-ultimate.com/images/char/zelda.png",
+    "description": "Zelda"
+    
+  },
+  {
+    "id": 8,
+    "name": "Peach",
+    "image": "http://smashbros-ultimate.com/images/char/peach.png",
+    "description": "Peach"
+    
+  },
+  {
+    "id": 9,
+    "name": "Fox",
+    "image": "http://smashbros-ultimate.com/images/char/fox.png",
+    "description": "Fox"
+    
+  },
+  {
+    "id": 10,
+    "name": "Falco",
+    "image": "http://smashbros-ultimate.com/images/char/falco.png",
+    "description": ""
+    
+  },
+  {
+    "id": 11,
+    "name": "Pokemon Trainer",
+    "image": "http://smashbros-ultimate.com/images/char/pokemon_trainer.png",
+    "description": "Falco"
+    
+  },
+  {
+    "id": 11,
+    "name": "Mewtwo",
+    "image": "http://smashbros-ultimate.com/images/char/mewtwo.png",
+    "description": "Mewtwo"
+    
+  },
+  {
+    "id": 12,
+    "name": "Kirby",
+    "image": "http://smashbros-ultimate.com/images/char/kirby.png",
+    "description": "Kirby"
+    
+  },
+  {
+    "id": 13,
+    "name": "Bowser",
+    "image": "http://smashbros-ultimate.com/images/char/bowser.png",
+    "description": "Bowser"
+    
+  },
+  {
+    "id": 5,
+    "name": "Ike",
+    "image": "http://smashbros-ultimate.com/images/char/ike.png",
+    "description": "Ike"
+    
+  },
+  {
+    "id": 3,
+    "name": "Bayonetta",
+    "image": "http://smashbros-ultimate.com/images/char/bayonetta.png",
+    "description": "Bayonetta"
+    
+  }
+]
