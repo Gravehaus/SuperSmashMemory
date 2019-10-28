@@ -1,3 +1,5 @@
+// The heart of every React component is its “state”, an object that determines how that component renders & behaves. In other words, “state” is what allows you to create components that are dynamic and interactive.
+
 import React, { Component } from "react";
 import Card from "./components/card";
 import Wrapper from "./components/wrapper"; //THIS IS WHERE THE GAME MAT
@@ -23,10 +25,13 @@ class App extends Component {
     this.state.cards.forEach(card => {
       card.count = 0;
     });
+    if (this.state.score === 0) {
+      return false
+    }
     alert(`Game Over :( \nscore: ${this.state.score}`);
     this.setState({score: 0});
     return true;
-  }
+  } //This needs to be fixed so as not to generate duplicate cards as well as not automatically start with a game over. :{}
 
   clickCount = id => {
     this.state.cards.find((o, i) => {
