@@ -13,7 +13,7 @@ class App extends Component {
     cards,
     score: 0,
     highscore: 0
-  };
+  }; //This is the header keeping count
 
   gameOver = () => {
     if (this.state.score > this.state.highscore) {
