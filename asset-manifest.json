@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SuperSmashMemory/static/css/main.2d5ccab6.chunk.css",
+    "main.js": "/SuperSmashMemory/static/js/main.a80adab1.chunk.js",
+    "main.js.map": "/SuperSmashMemory/static/js/main.a80adab1.chunk.js.map",
+    "runtime-main.js": "/SuperSmashMemory/static/js/runtime-main.8b04c26b.js",
+    "runtime-main.js.map": "/SuperSmashMemory/static/js/runtime-main.8b04c26b.js.map",
+    "static/js/2.bd3a9e65.chunk.js": "/SuperSmashMemory/static/js/2.bd3a9e65.chunk.js",
+    "static/js/2.bd3a9e65.chunk.js.map": "/SuperSmashMemory/static/js/2.bd3a9e65.chunk.js.map",
+    "index.html": "/SuperSmashMemory/index.html",
+    "precache-manifest.3b3f61e7a938a5f0bd8fd598c79de1a7.js": "/SuperSmashMemory/precache-manifest.3b3f61e7a938a5f0bd8fd598c79de1a7.js",
+    "service-worker.js": "/SuperSmashMemory/service-worker.js",
+    "static/css/main.2d5ccab6.chunk.css.map": "/SuperSmashMemory/static/css/main.2d5ccab6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b04c26b.js",
+    "static/js/2.bd3a9e65.chunk.js",
+    "static/css/main.2d5ccab6.chunk.css",
+    "static/js/main.a80adab1.chunk.js"
+  ]
+}
