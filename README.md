@@ -2,7 +2,7 @@
 
 How to play!
 
-Navigate to: https://gravehaus.github.io/clickyGame/
+Navigate to: https://gravehaus.github.io/SuperSmashMemory/
 
 Click on any card to start the game.
 
@@ -10,7 +10,7 @@ Go through the game without tapping the same card twice otherwise, GAME OVER!
 
 ## To Run Via Code Editor
 
-Clone the game and asset repo from: https://github.com/Gravehaus/clickyGame.git
+Clone the game and asset repo from: https://github.com/Gravehaus/SuperSmashMemory.git
 
 Steps:
 
